@@ -1,5 +1,12 @@
-# AUREX: High-Volume Image Processing Engine
+# AUREX: Computer Vision Applications
 
+
+
+
+
+
+
+## 1. Aurex For Image Processing Solutions.
 **Aurex** provides enterprise-grade image processing solutions for e-commerce retailers, real estate agencies, and digital marketers. 
 
 > *Proprietary python-based automation ensuring 100% compliance with Amazon, Shopify, and Real Estate standards.*
