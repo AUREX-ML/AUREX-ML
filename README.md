@@ -6,8 +6,8 @@
 
 
 
-## [1. Aurex For Image Processing Solutions.](https://github.com/AUREX-ML/Aurex_Engine)
-**Aurex** provides enterprise-grade image processing solutions for e-commerce retailers, real estate agencies, and digital marketers. 
+## [1. The Aurex_Engine](https://github.com/AUREX-ML/Aurex_Engine)
+**The Aurex_Engine** provides enterprise-grade image processing solutions for e-commerce retailers, real estate agencies, and digital marketers. 
 
 > *Proprietary python-based automation ensuring 100% compliance with Amazon, Shopify, and Real Estate standards.*
 
@@ -15,7 +15,7 @@
 
 ## 🚀 Capabilities
 
-We do not edit manually. We process mathematically.
+It processes images mathematically.
 
 | Feature | Description |
 | :--- | :--- |
@@ -26,7 +26,7 @@ We do not edit manually. We process mathematically.
 
 ## 🛠 Business Workflow
 
-1.  **Ingestion:** Clients upload raw batches via Secure Cloud (Google Drive/Dropbox).
+1.  **Ingestion:** Clients upload raw batches via Secure Cloud (Google Drive).
 2.  **Transformation:** The Aurex Engine normalizes pixel density, background, and metadata.
 3.  **QC & Delivery:** Automated verification and zip-file delivery.
 
