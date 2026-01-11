@@ -6,7 +6,7 @@
 
 
 
-## 1. Aurex For Image Processing Solutions.
+## [1. Aurex For Image Processing Solutions.](https://github.com/AUREX-ML/Aurex_Engine)
 **Aurex** provides enterprise-grade image processing solutions for e-commerce retailers, real estate agencies, and digital marketers. 
 
 > *Proprietary python-based automation ensuring 100% compliance with Amazon, Shopify, and Real Estate standards.*
