@@ -1,4 +1,4 @@
-# AUREX: Computer Vision Applications
+# AUREX ML Solutions
 
 
 
