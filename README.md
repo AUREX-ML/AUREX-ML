@@ -1,94 +1,119 @@
-<!-- HEADER SECTION -->
+<!-- HEADER & LOGO SECTION -->
 <div align="center">
-  <img src="https://via.placeholder.com/150?text=Aurex+Logo" width="150" height="150" alt="Aurex ML Solutions Logo"/>
-  <h1>Aurex ML Solutions</h1>
-  <p><b>Computer Vision Engineering | Automation | Machine Learning</b></p>
-
-  <!-- BADGES -->
-  <p>
-    <img src="https://img.shields.io/badge/Focus-Computer%20Vision-blueviolet?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-success?style=for-the-badge" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=AUREX%20ML%20SOLUTIONS&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn" alt="Aurex Header" />
   
-  <p><i>"Giving machines the power of sight to automate the repetitive."</i></p>
+  <!-- TYPING EFFECT ANIMATION -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FF99&background=00000000&center=true&vCenter=true&width=600&lines=We+Teach+Machines+to+See.;Visual+Engineering.;Real+World+AI+Solutions." alt="Typing SVG" />
+  </a>
+</div>
+
+<br />
+
+<!-- HERO SECTION -->
+<div align="center">
+  <h3>Raw Pixels ➔ Hard Data.</h3>
+  <p>We build the computer vision tools that power the next generation of food tech, e-commerce, and social automation. Complex logic, wrapped in code that just works.</p>
+
+  <!-- CTA BUTTONS (BADGES STYLE) -->
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Hire_Us-Visual_Engineers-000000?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
+  <a href="#-featured-projects">
+    <img src="https://img.shields.io/badge/View_Projects-The_Code-00FF99?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</div>
+
+<hr />
+
+<!-- PHILOSOPHY SECTION -->
+### 👁️ The Philosophy: "Visual Engineering"
+
+Look, complex logic is hard. Teaching a computer to understand that a pixel is a banana, or that an image needs to be exactly 1080x1080 for Instagram, is even harder.
+
+**Aurex ML Solutions** sits at the messy intersection of **AI and Reality**. We don't just write scripts; we build architectures that solve visual problems.
+
+---
+
+<!-- PROJECTS SECTION -->
+<div align="center">
+  <h2>⚡ FEATURED PROJECTS ⚡</h2>
+</div>
+
+<!-- PROJECT 1: NUVISION -->
+<div align="center">
+  <img src="https://placehold.co/600x300/1a1a1a/FFF?text=Insert+Nuvision+Scanning+GIF+Here" alt="Nuvision Demo" width="100%" />
+</div>
+
+### 🍎 Nuvision
+> **The "No-BS" Calorie Counter.**
+
+Stop guessing. Stop weighing. **Nuvision** uses your webcam to "look" at your food, calculate volumetric data, and crunch nutritional numbers in real-time. It spits out a single, honest integer: **Your Calories.**
+
+*   **Tech:** OpenCV, Python, Volumetric Estimation.
+*   **Status:** Active Development.
+
+<div align="left">
+  <a href="LINK_TO_NUVISION_REPO">
+    <img src="https://img.shields.io/badge/View_Nuvision-Source_Code-FF5555?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+<br />
+
+<!-- PROJECT 2: BATCHEDITOR -->
+<div align="center">
+  <img src="https://placehold.co/600x300/1a1a1a/FFF?text=Insert+BatchEditor+Workflow+GIF+Here" alt="BatchEditor Demo" width="100%" />
+</div>
+
+### 📸 BatchEditor
+> **The Ultimate Image Shapeshifter.**
+
+E-commerce platforms are picky. **BatchEditor** is your visual engineering assembly line. Throw us your raw, messy, unorganized folders of product shots. We process them in bulk, standardizing formats and dimensions for every major platform (Amazon, Shopify, Jumia, X).
+
+*   **Standards:** Shopify, Alibaba, Amazon, Jumia, Facebook, X.
+*   **Tech:** Image Processing, Automation Scripting.
+
+<div align="left">
+  <a href="LINK_TO_BATCHEDITOR_REPO">
+    <img src="https://img.shields.io/badge/View_BatchEditor-Source_Code-2ea44f?style=for-the-badge&logo=github" />
+  </a>
 </div>
 
 ---
 
-## 🛠️ What We Do
-**Aurex ML Solutions** identifies bottlenecks in industries—specifically those involving visual data—and deploys lightweight, high-impact Machine Learning models to solve them. We move beyond "Jupyter Notebook experiments" to build deployable, real-world applications.
-
----
-
-## 📂 Featured Projects
-
-### 1. [AUREX ENGINE ⚙️](LINK_TO_REPO)
-> **The Problem:** E-commerce and Real Estate businesses waste resources on manual bulk image editing.
-> **The Solution:** A robust Python-based automation engine for high-volume image processing.
-
-*   **Capabilities:** Auto-resizing, padding (Amazon/Shopify standards), watermarking, and QC automation.
-*   **Scale:** Capable of processing 10,000+ images/hour via FTP integration.
-*   **Tech:** `OpenCV` `NumPy` `Automation Scripting`
-
-### 2. [NuVision 🍎](LINK_TO_REPO)
-> **The Concept:** "Shazam for Food."
-> **The Solution:** A dietary tracking application that uses a webcam to scan food on a plate and estimate caloric content in real-time.
-
-*   **Features:** Object detection (YOLO/MobileNet), volume estimation, and integer calorie display.
-*   **Tech:** `Computer Vision` `Real-time Inference` `Flask`
-
-### 3. [End-to-End Image Classification 🐶](LINK_TO_REPO)
-> **The Tech:** A deep dive into binary classification architectures.
-
-*   **Details:** A rigorous implementation of a Cat vs. Dog classifier, demonstrating the full ML pipeline: Data preprocessing, Augmentation, CNN Architecture design, and Model Evaluation.
-*   **Tech:** `TensorFlow/Keras` `CNNs` `Data Augmentation`
-
-### 4. [Emotion Recognition (Open Source) 🎭](LINK_TO_REPO)
-> **The Contribution:** Happy/Sad Classification.
-
-*   **Details:** Contributor to an open-source initiative for facial expression recognition. Focused on optimizing the model for low-light environments.
-
----
-
-## 💻 Tech Stack & Tools
-
-| Domain | Tools |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
-| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat) |
-| **Deep Learning** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
-
----
-
-## 📈 GitHub Stats
+<!-- TECH STACK SECTION -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Aurex Stats" />
+  <h3>🛠️ Under The Hood</h3>
+  <p>We don't just guess. We engineer.</p>
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
----
+<br />
 
-## 🤝 Services & Collaboration
-We are currently accepting contracts and collaborations for:
-*   **Custom Dataset Creation & Cleaning**
-*   **Automated Image Processing Scripts** (Python/OpenCV)
-*   **Object Detection Integration** for CCTV/Webcams
-
----
-
+<!-- FOOTER / CONNECT SECTION -->
 <div align="center">
-  <h3>Let's Automate Your Workflow.</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" />
+  
+  <h3>Got a visual problem? Let’s engineer a solution.</h3>
+  
   <p>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Us-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
+      <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
     </a>
-    <a href="https://linkedin.com/in/your-profile">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://yourwebsite.com">
-      <img src="https://img.shields.io/badge/Website-Visit%20Aurex-green?style=for-the-badge&logo=google-chrome" alt="Website" />
+    <a href="https://yourwebsite.com" target="_blank">
+      <img src="https://img.shields.io/badge/Website-FF3366?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
   </p>
+
+  <p><i>Aurex ML Solutions © 2025 • Nairobi • Global</i></p>
 </div>
