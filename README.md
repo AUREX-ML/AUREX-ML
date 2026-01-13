@@ -16,7 +16,7 @@
   <p>We build the computer vision tools that power the next generation of food tech, e-commerce, and social automation. Complex logic, wrapped in code that just works.</p>
 
   <!-- CTA BUTTONS (BADGES STYLE) -->
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:aurexcv@gmail.com">
     <img src="https://img.shields.io/badge/Hire_Us-Visual_Engineers-000000?style=for-the-badge&logo=minutemailer&logoColor=white" />
   </a>
   <a href="#-featured-projects">
@@ -54,7 +54,7 @@ Stop guessing. Stop weighing. **Nuvision** uses your webcam to "look" at your fo
 *   **Status:** Active Development.
 
 <div align="left">
-  <a href="LINK_TO_NUVISION_REPO">
+  <a href="https://github.com/AUREX-ML/NuVision">
     <img src="https://img.shields.io/badge/View_Nuvision-Source_Code-FF5555?style=for-the-badge&logo=github" />
   </a>
 </div>
@@ -75,7 +75,7 @@ E-commerce platforms are picky. **BatchEditor** is your visual engineering assem
 *   **Tech:** Image Processing, Automation Scripting.
 
 <div align="left">
-  <a href="LINK_TO_BATCHEDITOR_REPO">
+  <a href="https://github.com/AUREX-ML/Aurex_Engine">
     <img src="https://img.shields.io/badge/View_BatchEditor-Source_Code-2ea44f?style=for-the-badge&logo=github" />
   </a>
 </div>
