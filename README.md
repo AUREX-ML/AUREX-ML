@@ -75,7 +75,7 @@ E-commerce platforms are picky. **BatchEditor** is your visual engineering assem
 *   **Tech:** Image Processing, Automation Scripting.
 
 <div align="left">
-  <a href="https://github.com/AUREX-ML/Aurex_Engine">
+  <a href="https://github.com/AUREX-ML/BatchEditor">
     <img src="https://img.shields.io/badge/View_BatchEditor-Source_Code-2ea44f?style=for-the-badge&logo=github" />
   </a>
 </div>
