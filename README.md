@@ -45,7 +45,7 @@ Look, complex logic is hard. Teaching a computer to understand that a pixel is a
   <img src="https://placehold.co/600x300/1a1a1a/FFF?text=Insert+Nuvision+Scanning+GIF+Here" alt="Nuvision Demo" width="100%" />
 </div>
 
-### 🍎 Nuvision
+### 🍎 NuVision
 > **The "No-BS" Calorie Counter.**
 
 Stop guessing. Stop weighing. **Nuvision** uses your webcam to "look" at your food, calculate volumetric data, and crunch nutritional numbers in real-time. It spits out a single, honest integer: **Your Calories.**
