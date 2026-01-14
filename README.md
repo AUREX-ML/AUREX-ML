@@ -46,13 +46,32 @@ Look, complex logic is hard. Teaching a computer to understand that a pixel is a
 </div>
 
 ### [🍎 NuVision](https://github.com/AUREX-ML/NuVision)
-[🔴 Live Demo](https://aurex-ml-nuvision-srcapp-3dsftp.streamlit.app/))
+
 > **The "No-BS" Calorie Counter.**
 
-Stop guessing. Stop weighing. **Nuvision** uses your webcam to "look" at your food, calculate volumetric data, and crunch nutritional numbers in real-time. It spits out a single, honest integer: **Your Calories.**
+Stop guessing. Stop weighing. **Nuvision** uses your device to "Shazam" at your food, and crunch nutritional numbers in real-time. It spits out **Calories!**
 
-*   **Tech:** Pillow, Python, Streamlit.
-*   **Status:** Active Development.
+### 💻 Tech Stack
+
+| Component | Technology | Role in NuVision |
+| :--- | :--- | :--- |
+| **Language** | ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white) | Logic. |
+| **AI** | ![Gemini](https://img.shields.io/badge/Model-Gemini_3_Flash_Preview-8E75B2?style=for-thebadge&logo=googlegemini&logoColor=white)| **Multimodal Inference:** Reasoning. |
+| **UI** | ![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-FF4B4B?style=flat&logo=streamlit&logoColor=white) | Dashboard. |
+| **Frameworks** | ![Pillow](https://img.shields.io/badge/Pillow-Library-blue?style=flat) | Image processing. |
+| **Infrastructure** | ![Streamlit Cloud](https://img.shields.io/badge/Cloud-Streamlit_Community-orange?style=flat&logo=streamlit) | Deployment. |
+|**Platform** | ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | Version control |
+|**IDE** | ![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Coding |
+
+
+## 🟢 Project Status
+
+> **Current Version:** `v1.2.0 (Live Production)`
+
+| Metric | Status | Details |
+| :--- | :--- | :--- |
+| **Deployment** | 🟢 **Online** | [Click here to use the App](https://aurex-ml-nuvision-srcapp-3dsftp.streamlit.app/) |
+| **Maintenance** | ✅ **Reliable** | Very consistent. |
 
 <div align="left">
   <a href="https://github.com/AUREX-ML/NuVision">
@@ -61,6 +80,8 @@ Stop guessing. Stop weighing. **Nuvision** uses your webcam to "look" at your fo
 </div>
 
 <br />
+
+
 
 <!-- PROJECT 2: BATCHEDITOR -->
 <div align="center">
