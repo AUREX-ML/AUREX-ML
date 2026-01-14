@@ -45,13 +45,13 @@ Look, complex logic is hard. Teaching a computer to understand that a pixel is a
   <img src="https://placehold.co/600x300/1a1a1a/FFF?text=Insert+Nuvision+Scanning+GIF+Here" alt="Nuvision Demo" width="100%" />
 </div>
 
-### [🍎 NuVision](https://github.com/AUREX-ML/NuVision)\
-[🔴 Live Demo]([YOUR_STREAMLIT_LINK](https://aurex-ml-nuvision-srcapp-3dsftp.streamlit.app/))
+### [🍎 NuVision](https://github.com/AUREX-ML/NuVision)
+[🔴 Live Demo](https://aurex-ml-nuvision-srcapp-3dsftp.streamlit.app/))
 > **The "No-BS" Calorie Counter.**
 
 Stop guessing. Stop weighing. **Nuvision** uses your webcam to "look" at your food, calculate volumetric data, and crunch nutritional numbers in real-time. It spits out a single, honest integer: **Your Calories.**
 
-*   **Tech:** OpenCV, Python, Volumetric Estimation.
+*   **Tech:** Pillow, Python, Streamlit.
 *   **Status:** Active Development.
 
 <div align="left">
