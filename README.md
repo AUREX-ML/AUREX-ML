@@ -1,6 +1,6 @@
 <!-- HEADER & LOGO SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=AUREX%20ML%20SOLUTIONS&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn" alt="Aurex Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=101459&height=200&section=header&text=AUREX%20ML%20SOLUTIONS&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn" alt="Aurex Header" />
   
   <!-- TYPING EFFECT ANIMATION -->
   <a href="https://git.io/typing-svg">
@@ -121,7 +121,7 @@ E-commerce platforms are picky. **BatchEditor** is your visual engineering assem
 
 <!-- FOOTER / CONNECT SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=101459&height=100&section=footer" />
   
   <h3>Got a visual problem? Let’s engineer a solution.</h3>
   
