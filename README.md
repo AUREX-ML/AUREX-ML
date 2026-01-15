@@ -42,7 +42,7 @@ Look, complex logic is hard. Teaching a computer to understand that a pixel is a
 
 <!-- PROJECT 1: NUVISION -->
 <div align="center">
-  <img src="https://placehold.co/600x300/1a1a1a/FFF?text=Insert+Nuvision+Scanning+GIF+Here" alt="Nuvision Demo" width="100%" />
+  <img src="/Users/ayiembarodgers/Desktop/AUREX ML SOLUTIONS/AUREX-ML/images/thumbnail.jpg" alt="Nuvision Demo" width="100%" />
 </div>
 
 ### [🍎 NuVision](https://github.com/AUREX-ML/NuVision)
