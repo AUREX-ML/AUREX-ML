@@ -41,15 +41,20 @@ Look, complex logic is hard. Teaching a computer to understand that a pixel is a
 </div>
 
 <!-- PROJECT 1: NUVISION -->
-<div align="center">
-  <img src="./images/thumbnail.jpg" alt="Nuvision Demo" width="100%" />
-</div>
-
 ### [🍎 NuVision](https://github.com/AUREX-ML/NuVision)
 
 > **The "No-BS" Calorie Counter.**
 
-Stop guessing. Stop weighing. **Nuvision** uses your device to "Shazam" at your food, and crunch nutritional numbers in real-time. It spits out **Calories!**
+---
+
+<div align="center">
+  <img src="./images/thumbnail.jpg" alt="Nuvision Demo" width="100%" />
+</div>
+
+---
+
+> **Stop guessing. Stop weighing. **Nuvision** uses your device to "Shazam" at your food, and crunch nutritional numbers in real-time. It spits out ``Calories!``**
+
 
 ### 💻 Tech Stack
 
@@ -84,12 +89,15 @@ Stop guessing. Stop weighing. **Nuvision** uses your device to "Shazam" at your 
 
 
 <!-- PROJECT 2: BATCHEDITOR -->
+
+### 📸 BatchEditor
+> **The Ultimate Image Shapeshifter.**
+
+
 <div align="center">
   <img src="https://placehold.co/600x300/1a1a1a/FFF?text=Insert+BatchEditor+Workflow+GIF+Here" alt="BatchEditor Demo" width="100%" />
 </div>
 
-### 📸 BatchEditor
-> **The Ultimate Image Shapeshifter.**
 
 E-commerce platforms are picky. **BatchEditor** is your visual engineering assembly line. Throw us your raw, messy, unorganized folders of product shots. We process them in bulk, standardizing formats and dimensions for every major platform (Amazon, Shopify, Jumia, X).
 
