@@ -45,87 +45,118 @@
 
 ## 🚀 Featured Projects
 
-### 🔋 [DERMS — Virtual Power Plant](https://github.com/AUREX-ML/DERMS)
+> Projects ranked by strategic priority — from flagship initiatives to foundational tools.
+
+---
+
+### 🥇 1 · 🤖 [Autonomous AI Startup Builder](https://github.com/AUREX-ML/Autonomous-AI-Startup-Builder--A-multi-agent-AI-system)
+> *Multi-Agent AI System | Agentic Reasoning · Market Research · MVP Generation*
+
+![Priority](https://img.shields.io/badge/Priority-Flagship-ff4757?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
+A multi-agent AI system that can ideate, validate, design, and prototype a startup autonomously — performing market research, technical planning, MVP generation, and business evaluation using agentic reasoning and ML. Represents Aurex's highest-leverage AI capability for turning ideas into engineered solutions.
+
+- 🧠 Autonomous startup ideation & validation
+- 🔍 AI-powered market research & competitive analysis
+- 🏗️ Technical planning & MVP scaffolding
+- 📊 Business evaluation & feasibility framework
+- 🔁 End-to-end agentic reasoning pipeline
+
+`#MultiAgent` `#AgenticAI` `#MachineLearning` `#StartupBuilder` `#AutonomousSystems`
+
+---
+
+### 🥈 2 · ⚡ [OpenEMS — Energy Management Platform](https://github.com/AUREX-ML/openEMS)
+> *Open-Source Energy Management Development | Java · Renewable Integration · Battery Systems*
+
+![Priority](https://img.shields.io/badge/Priority-Core%20Platform-ff6b35?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
+The strategic backbone of Aurex's energy platform work — building on OpenEMS, the leading open-source framework for modern energy management, renewable integration, battery systems, and intelligent energy control. This is the core infrastructure layer all energy solutions are built upon.
+
+- 🌞 Solar PV & renewable energy integration
+- 🔋 Battery system management & optimization
+- 📡 Real-time energy monitoring & forecasting
+- 🔧 Software-hardware bridge layer
+- 🌍 Foundation for Africa-scale energy deployments
+
+`#OpenEMS` `#EnergyForecasting` `#EnergyEfficiency` `#EnergyMonitoring` `#Java` `#RenewableEnergy`
+
+---
+
+### 🥉 3 · 🔋 [DERMS — Virtual Power Plant](https://github.com/AUREX-ML/DERMS)
 > *Distributed Energy Resource Management System | Python · FastAPI · Machine Learning · IoT*
 
-A production-grade concept system for utilities and energy stakeholders to monitor, coordinate, and optimize distributed energy resources — solar PV, batteries, backup generators, and flexible demand loads.
+![Priority](https://img.shields.io/badge/Priority-High-ffa502?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In%20Development-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-Apache%202.0-green?style=flat-square)
+
+A production-grade DERMS and Virtual Power Plant system for utilities and energy stakeholders — monitoring, coordinating, and optimizing distributed energy resources at scale. The most technically complex original Aurex project, directly addressing Africa's DER management gap.
 
 - 📡 Real-time DER monitoring and telemetry
 - 🔄 Demand response orchestration
-- 🧠 ML-based energy forecasting
+- 🧠 ML-based energy forecasting & load prediction
 - 🛡️ Smart grid integration & battery storage management
+- 🏭 Virtual Power Plant aggregation layer
 
 `#DERMS` `#VirtualPowerPlant` `#SmartGrid` `#Python` `#FastAPI` `#MachineLearning` `#IoT` `#BatteryStorage`
 
 ---
 
-### 📊 [Smart Energy Monitor](https://github.com/AUREX-ML/Smart-Energy-Monitor)
-> *Real-Time IoT Energy Metering System | Python · MQTT · Dashboard*
-
-A full-stack IoT solution simulating a smart meter — streams live voltage, current, and power data to a central visualization dashboard. Tracks energy usage patterns in real time.
-
-- ⚡ Live electrical parameter streaming (V, I, P)
-- 📈 Real-time usage dashboards
-- 🔌 Smart meter digital twin simulation
-- 🏠 Residential & facility energy visibility
-
-`#SmartMeter` `#IoT` `#EnergyMonitoring` `#Python` `#MQTT`
-
----
-
-### 🌿 [Smart Indoor Plant Monitor](https://github.com/AUREX-ML/Smart-Indoor-Plant-Monitor)
-> *IoT Digital Twin for ESP32 Hardware | Python · ESP32 Simulation*
-
-A Python-based digital twin of a physical ESP32 plant monitoring setup — models the complete IoT data lifecycle from sensor generation to action, enabling full system prototyping without hardware.
-
-- 🌡️ Temperature, humidity & soil moisture simulation
-- 🔁 Full IoT data lifecycle modelling
-- 📲 Alert & automation logic
-- 🛠️ Hardware-free ESP32 prototyping
-
-`#DigitalTwin` `#ESP32` `#IoT` `#Python` `#Automation`
-
----
-
-### 🏭 [MyEMS — Facility Energy Management](https://github.com/AUREX-ML/myems)
+### 4 · 🏭 [MyEMS — Facility Energy Management](https://github.com/AUREX-ML/myems)
 > *Open-Source Facility Energy Monitoring | Python · Raspberry Pi · Dashboards*
 
-A practical facility-level energy management deployment using MyEMS — collecting energy data, visualizing performance, and improving operational efficiency through open-source tools.
+![Priority](https://img.shields.io/badge/Priority-Medium--High-eccc68?style=flat-square&labelColor=555)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
+A practical facility-level energy management deployment using MyEMS — collecting energy data, visualizing KPIs, and improving operational efficiency through open-source tooling. Bridges Aurex's software capabilities with physical facility infrastructure.
 
 - 📊 Energy data collection & KPI visualization
 - 🖥️ Facility-level monitoring dashboards
 - 🥧 Raspberry Pi edge deployment
-- 🔓 Open-source energy stack
+- 🔓 Open-source energy management stack
+- 🏢 Commercial & industrial facility readiness
 
-`#MyEMS` `#FacilityManagement` `#RaspberryPi` `#OpenSource`
-
----
-
-### ⚡ [OpenEMS — Energy Management Platform](https://github.com/AUREX-ML/openEMS)
-> *Open-Source Energy Management Development | Java · Renewable Integration · Battery Systems*
-
-A technical track for building with OpenEMS — the leading open-source platform for modern energy management, renewable energy integration, battery systems, and intelligent energy control.
-
-- 🌞 Solar PV & renewable integration
-- 🔋 Battery system management
-- 📡 Energy monitoring & forecasting
-- 🔧 Software-hardware integration patterns
-
-`#OpenEMS` `#EnergyForecasting` `#EnergyEfficiency` `#EnergyMonitoring` `#Java`
+`#MyEMS` `#FacilityManagement` `#RaspberryPi` `#OpenSource` `#EnergyEfficiency`
 
 ---
 
-### 🤖 [Autonomous AI Startup Builder](https://github.com/AUREX-ML/Autonomous-AI-Startup-Builder--A-multi-agent-AI-system)
-> *Multi-Agent AI System | Agentic Reasoning · Market Research · MVP Generation*
+### 5 · 🌿 [Smart Indoor Plant Monitor](https://github.com/AUREX-ML/Smart-Indoor-Plant-Monitor)
+> *IoT Digital Twin for ESP32 Hardware | Python · ESP32 Simulation*
 
-A multi-agent AI system that can ideate, validate, design, and prototype a startup autonomously — performing market research, technical planning, MVP generation, and business evaluation using agentic reasoning and ML.
+![Priority](https://img.shields.io/badge/Priority-Medium-1e90ff?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Industry Interest](https://img.shields.io/badge/🏭%20Industry%20Outreach-MineWing%20Electronics%2C%20Vietnam-gold?style=flat-square)
 
-- 🧠 Autonomous startup ideation & validation
-- 🔍 AI-powered market research
-- 🏗️ Technical planning & MVP scaffolding
-- 📊 Business evaluation framework
+> 📬 **Industry Interest:** This project has received an active outreach inquiry from **MineWing**, an electronics-integrated company based in **Vietnam**, signalling international commercial interest in the IoT digital twin architecture.
 
-`#MultiAgent` `#AgenticAI` `#MachineLearning` `#StartupBuilder`
+A Python-based digital twin of a physical ESP32 plant monitoring setup — models the complete IoT data lifecycle from sensor generation to automated action. Enables full system prototyping without hardware — a pattern directly transferable to industrial IoT deployments.
+
+- 🌡️ Temperature, humidity & soil moisture simulation
+- 🔁 Full IoT data lifecycle modelling
+- 📲 Alert & automation logic
+- 🛠️ Hardware-free ESP32 rapid prototyping
+- 🏭 Industrial IoT pattern — adaptable to manufacturing & agriculture
+
+`#DigitalTwin` `#ESP32` `#IoT` `#Python` `#Automation` `#IndustrialIoT`
+
+---
+
+### 6 · 📊 [Smart Energy Monitor](https://github.com/AUREX-ML/Smart-Energy-Monitor)
+> *Real-Time IoT Energy Metering System | Python · MQTT · Dashboard*
+
+![Priority](https://img.shields.io/badge/Priority-Foundational-7bed9f?style=flat-square&labelColor=555)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=flat-square)
+
+A full-stack IoT energy metering solution simulating a smart meter — streaming live voltage, current, and power data to a central visualization dashboard in real time. A foundational demonstration of Aurex's IoT-to-dashboard pipeline and the entry point for energy visibility work.
+
+- ⚡ Live electrical parameter streaming (V, I, P)
+- 📈 Real-time energy usage dashboards
+- 🔌 Smart meter digital twin simulation
+- 🏠 Residential & facility energy visibility baseline
+
+`#SmartMeter` `#IoT` `#EnergyMonitoring` `#Python` `#MQTT` `#Dashboard`
 
 ---
 
