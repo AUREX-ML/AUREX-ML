@@ -173,8 +173,8 @@ A Python-based digital twin of a physical ESP32 plant monitoring setup — model
 ![IoT](https://img.shields.io/badge/IoT-Systems-blue?style=flat-square&logo=arduino)
 ![MQTT](https://img.shields.io/badge/MQTT-Protocol-660066?style=flat-square)
 ![ThingsBoard](https://img.shields.io/badge/ThingsBoard-Cloud%20IoT-00B9FF?style=flat-square)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Prototyping-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-Edge%20Computing-black?style=flat-square)
+![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-Edge%20Computing-76b900?style=flat-square&logo=nvidia&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-Prototyping%20-black?style=flat-square)
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=flat-square&logo=cisco)
 
 ### 🤖 AI & Machine Learning
