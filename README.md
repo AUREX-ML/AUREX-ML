@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=220&section=header&text=Aurex%20Digital%20Energy%20Solutions&fontSize=36&fontColor=00d4ff&fontAlignY=40&desc=Ayiemba%20Rodgers%20%7C%20Electrical%20%26%20Systems%20Engineer&descSize=16&descAlignY=62&descColor=a0c4ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=220&section=header&text=Aurex%20Digital%20Energy%20Solutions&fontSize=36&fontColor=00d4ff&fontAlignY=38&desc=AI%20%7C%20IoT%20%7C%20Energy%20Systems%20%7C%20Machakos%2C%20Kenya&descSize=18&descAlignY=58&descColor=ffffff" width="100%"/>
 </div>
 
 <p align="center">
