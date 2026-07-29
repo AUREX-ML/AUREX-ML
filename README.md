@@ -49,7 +49,7 @@
 
 ---
 
-### 🥇 1 · 🇰🇪 National Distributed Energy Resource Management System (NDERMS)
+### 🥇 1 · 🇰🇪 [National Distributed Energy Resource Management System (NDERMS)](https://github.com/AUREX-ML/National-Distributed-Energy-Resource-Management-System)
 > *National-Scale Energy Digital Infrastructure | Python · FastAPI · AI · IoT · OpenEMS*
 
 ![Priority](https://img.shields.io/badge/Priority-Flagship-ff4757?style=flat-square)
