@@ -49,21 +49,27 @@
 
 ---
 
-### 🥇 1 · 🤖 [Autonomous AI Startup Builder](https://github.com/AUREX-ML/Autonomous-AI-Startup-Builder--A-multi-agent-AI-system)
-> *Multi-Agent AI System | Agentic Reasoning · Market Research · MVP Generation*
+### 🥇 1 · 🇰🇪 National Distributed Energy Resource Management System (NDERMS)
+> *National-Scale Energy Digital Infrastructure | Python · FastAPI · AI · IoT · OpenEMS*
 
 ![Priority](https://img.shields.io/badge/Priority-Flagship-ff4757?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Scope](https://img.shields.io/badge/Scope-National%20Infrastructure-cc0000?style=flat-square)
+![Status](https://img.shields.io/badge/Status-In%20Development-blue?style=flat-square)
 
-A multi-agent AI system that can ideate, validate, design, and prototype a startup autonomously — performing market research, technical planning, MVP generation, and business evaluation using agentic reasoning and ML. Represents Aurex's highest-leverage AI capability for turning ideas into engineered solutions.
+The cornerstone Aurex initiative — a **national-scale Distributed Energy Resource Management System** designed to give Kenya and broader African utilities a unified digital platform to monitor, coordinate, and optimize every distributed energy resource connected to the grid.
 
-- 🧠 Autonomous startup ideation & validation
-- 🔍 AI-powered market research & competitive analysis
-- 🏗️ Technical planning & MVP scaffolding
-- 📊 Business evaluation & feasibility framework
-- 🔁 End-to-end agentic reasoning pipeline
+NDERMS bridges the gap between Kenya's rapidly growing distributed energy landscape — solar PV, batteries, microgrids, and flexible loads — and the digital intelligence layer needed to manage it all at national scale.
 
-`#MultiAgent` `#AgenticAI` `#MachineLearning` `#StartupBuilder` `#AutonomousSystems`
+- 🗺️ National-scope DER visibility & real-time telemetry
+- 🔄 Grid-level demand response & load coordination
+- 🧠 AI/ML energy forecasting & predictive grid analytics
+- 🔋 Battery storage, solar PV & microgrid integration
+- 🏭 Virtual Power Plant aggregation across distributed assets
+- 📡 IoT-connected field devices & remote monitoring
+- 🔓 Built on open-source energy standards (OpenEMS, DERMS)
+- 🌍 Designed for Kenya — scalable across Sub-Saharan Africa
+
+`#NDERMS` `#NationalGrid` `#DistributedEnergy` `#VirtualPowerPlant` `#SmartGrid` `#Python` `#FastAPI` `#MachineLearning` `#IoT` `#OpenEMS` `#AfricaEnergy`
 
 ---
 
@@ -92,7 +98,7 @@ The strategic backbone of Aurex's energy platform work — building on OpenEMS, 
 ![Status](https://img.shields.io/badge/Status-In%20Development-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-Apache%202.0-green?style=flat-square)
 
-A production-grade DERMS and Virtual Power Plant system for utilities and energy stakeholders — monitoring, coordinating, and optimizing distributed energy resources at scale. The most technically complex original Aurex project, directly addressing Africa's DER management gap.
+A production-grade DERMS and Virtual Power Plant system for utilities and energy stakeholders — monitoring, coordinating, and optimizing distributed energy resources at scale. The most technically complex original Aurex project, directly addressing Africa's DER management gap and serving as the implementation base for NDERMS.
 
 - 📡 Real-time DER monitoring and telemetry
 - 🔄 Demand response orchestration
@@ -140,23 +146,6 @@ A Python-based digital twin of a physical ESP32 plant monitoring setup — model
 - 🏭 Industrial IoT pattern — adaptable to manufacturing & agriculture
 
 `#DigitalTwin` `#ESP32` `#IoT` `#Python` `#Automation` `#IndustrialIoT`
-
----
-
-### 6 · 📊 [Smart Energy Monitor](https://github.com/AUREX-ML/Smart-Energy-Monitor)
-> *Real-Time IoT Energy Metering System | Python · MQTT · Dashboard*
-
-![Priority](https://img.shields.io/badge/Priority-Foundational-7bed9f?style=flat-square&labelColor=555)
-![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=flat-square)
-
-A full-stack IoT energy metering solution simulating a smart meter — streaming live voltage, current, and power data to a central visualization dashboard in real time. A foundational demonstration of Aurex's IoT-to-dashboard pipeline and the entry point for energy visibility work.
-
-- ⚡ Live electrical parameter streaming (V, I, P)
-- 📈 Real-time energy usage dashboards
-- 🔌 Smart meter digital twin simulation
-- 🏠 Residential & facility energy visibility baseline
-
-`#SmartMeter` `#IoT` `#EnergyMonitoring` `#Python` `#MQTT` `#Dashboard`
 
 ---
 
