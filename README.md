@@ -73,7 +73,7 @@ NDERMS bridges the gap between Kenya's rapidly growing distributed energy landsc
 
 ---
 
-### 🥈 2 · ⚡ [OpenEMS — Energy Management Platform](https://github.com/AUREX-ML/openEMS)
+### 🥈 2 · ⚡ [OpenEMS — Organisation](https://github.com/AUREX-ML/openEMS)
 > *Open-Source Energy Management Development | Java · Renewable Integration · Battery Systems*
 
 ![Priority](https://img.shields.io/badge/Priority-Core%20Platform-ff6b35?style=flat-square)
@@ -91,7 +91,7 @@ The strategic backbone of Aurex's energy platform work — building on OpenEMS, 
 
 ---
 
-### 🥉 3 · 🔋 [DERMS — Virtual Power Plant](https://github.com/AUREX-ML/DERMS)
+### 🥉 3 · 🔋 [DERMS — Concept](https://github.com/AUREX-ML/DERMS)
 > *Distributed Energy Resource Management System | Python · FastAPI · Machine Learning · IoT*
 
 ![Priority](https://img.shields.io/badge/Priority-High-ffa502?style=flat-square)
@@ -110,7 +110,7 @@ A production-grade DERMS and Virtual Power Plant system for utilities and energy
 
 ---
 
-### 4 · 🏭 [MyEMS — Facility Energy Management](https://github.com/AUREX-ML/myems)
+### 4 · 🏭 [MyEMS — Facility Energy Management System](https://github.com/AUREX-ML/myems)
 > *Open-Source Facility Energy Monitoring | Python · Raspberry Pi · Dashboards*
 
 ![Priority](https://img.shields.io/badge/Priority-Medium--High-eccc68?style=flat-square&labelColor=555)
